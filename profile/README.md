@@ -8,7 +8,7 @@ I have 5 years of experience with running/creating minecraft servers, plugins, d
 
 # 📃 My Projects
 
-I've worked on some interesting projects over the past few years and the one im most passionate about is [Hyronix](<https://hyroinx.org>)
+I've worked on some interesting projects over the past few years and the one im most passionate about is [Hyronix](<https://hyronix.org>)
 a Minecraft UGC Studio that works on servers and more!
 
 # 📞 Contact
